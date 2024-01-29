@@ -1,15 +1,25 @@
+<h1 align='center'>
+<a href="#">
+<img src="https://readme-typing-svg.demolab.com?font=Tangerine&size=50&duration=1000&pause=1000&color=DFC65F&center=true&vCenter=true&repeat=false&random=false&width=220&height=80&lines=Hi%2C+I'm+Utku!" alt="hello message">
+</a>
+<a href="#">
+<img src="https://readme-typing-svg.demolab.com?font=Tangerine&size=40&duration=2200&repeat=false&pause=10000&color=DFC65F&center=true&vCenter=true&random=false&width=90&height=90&lines=%F0%9F%91%8B" alt="waving hand">
+</a>
+</h1>
 
-<h1 align='center'>Hi, I'm Utku!</h1>
 
-## About Me 🧑‍💻
+ ## About Me 🧑‍💻
 
-- I'm a Computer Science student at Hacettepe University.
-- I'm passionate about Software Engineering and Competitive Programming.
-- How to reach me: <a href="https://www.linkedin.com/in/utkunsal" target="_blank"><img align='center' src="https://img.shields.io/badge/Utku%20Ünsal-000.svg?&logo=linkedin&logoColor=%230077B5" alt="LinkedIn"></a>
+- 📚 I'm a Computer Science student at Hacettepe University.
+- 🌱 I'm passionate about Software Engineering and Artificial Intelligence.
+- 🚀 I'm enthusiastically embracing new tools and technologies to enhance my skill set.
+- 📫 How to reach me: <a href="https://www.linkedin.com/in/utkunsal" target="_blank"><img align='center' src="https://img.shields.io/badge/Utku%20Ünsal-000.svg?&logo=linkedin&logoColor=%230077B5" alt="LinkedIn"></a>
+
 
 <p align="center">
-  <a href="https://github.com/utkunsal?tab=repositories"><img src="https://github-profile-trophy.vercel.app/?username=utkunsal&theme=darkhub&title=MultiLanguage,Stars,Repositories,Commits,PullRequest&margin-w=15&row=1&column=5" alt="utkunsal"></a> 
+  <a href="https://github.com/utkunsal?tab=repositories"><img src="https://github-profile-trophy.vercel.app/?username=utkunsal&theme=juicyfresh&title=MultiLanguage,Stars,Repositories,Commits,PullRequest&margin-w=15&row=1&column=5" alt="utkunsal"></a> 
 </p>
+
 
 ## My Skills 🛠️
 
@@ -25,7 +35,6 @@
 [![Docker](https://img.shields.io/badge/-Docker-000?&logo=Docker)](#)
 [![Springboot](https://img.shields.io/badge/-Spring%20Boot-000?&logo=Springboot)](#)
 [![Node.js](https://img.shields.io/badge/-Node.js-000?&logo=Node.js)](#)
-[![Express.js](https://img.shields.io/badge/-Express.js-000?&logo=Express)](#)
 [![React](https://img.shields.io/badge/-React-000?&logo=React)](#)
 [![Firebase](https://img.shields.io/badge/-Firebase-000?&logo=Firebase)](#)  
 
